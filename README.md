@@ -23,3 +23,5 @@ rerenders the note list on the page
 end note
 
 browser->server: sends the new note to the server
+
+![Process Diagram](https://octodex.github.com/images/yaktocat.png)
