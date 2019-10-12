@@ -1,5 +1,7 @@
 # FSO-Part-0
 
+### Process & diagram depicting the situation, where user creates a new note using the single page version of the app.
+
 title Single Page App   
 
 browser->server: HTTP POST https://fullstack-exampleapp.herokuapp.com/new_note_spa
